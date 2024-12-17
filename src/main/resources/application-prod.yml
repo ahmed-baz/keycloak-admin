@@ -1,0 +1,9 @@
+tesla:
+  oauth2:
+    url: http://localhost:9666
+    username: admin
+    password: admin
+    claim:
+      id: learning-hub-app
+    client:
+      name: learning-hub
